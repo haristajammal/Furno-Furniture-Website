@@ -244,7 +244,7 @@ ul{
 .menu-icon{
     width: 28px;
     margin-left: 20px;
-    display: none;
+    display: block;
 }
 @media only screen and (max-width:800px){
     nav ul{
@@ -572,3 +572,4 @@ img {
 #generate-invoice:hover {
     background-color: #e65b50;
 }
+
